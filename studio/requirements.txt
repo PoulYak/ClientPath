@@ -1,3 +1,4 @@
+langchain-core
 langchain==0.3.18
 langchain-community==0.3.17
 langchain-gigachat==0.3.4
@@ -6,3 +7,4 @@ langgraph==0.2.74
 pandas==2.2.3
 openpyxl==3.1.5
 faiss-cpu
+
